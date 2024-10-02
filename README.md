@@ -1,5 +1,5 @@
 # microsoft_MiniLM_L12_H384_uncased
-#[![Downloads]
+
 
 **microsoft_MiniLM-L12-H384-uncased Fine-Tuning Text Classifier** is an efficient and lightweight library designed for fine-tuning the pre-trained `microsoft/MiniLM-L12-H384-uncased` model for text classification tasks, with a focus on English. The library provides a streamlined interface for loading your dataset, fine-tuning the model, and evaluating it using key metrics like accuracy, precision, recall, and F1-score.
 
