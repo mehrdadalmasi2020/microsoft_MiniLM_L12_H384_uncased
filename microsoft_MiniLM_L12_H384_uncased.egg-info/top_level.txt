@@ -1,0 +1,1 @@
+microsoft_MiniLM_L12_H384_uncased

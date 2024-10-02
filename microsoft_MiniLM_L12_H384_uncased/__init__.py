@@ -1,0 +1,2 @@
+# microsoft_MiniLM_L12_H384_uncased/__init__.py
+from .text_classification_model import TextClassificationModel

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+microsoft_MiniLM_L12_H384_uncased/__init__.py
+microsoft_MiniLM_L12_H384_uncased/text_classification_model.py
+microsoft_MiniLM_L12_H384_uncased.egg-info/PKG-INFO
+microsoft_MiniLM_L12_H384_uncased.egg-info/SOURCES.txt
+microsoft_MiniLM_L12_H384_uncased.egg-info/dependency_links.txt
+microsoft_MiniLM_L12_H384_uncased.egg-info/requires.txt
+microsoft_MiniLM_L12_H384_uncased.egg-info/top_level.txt
